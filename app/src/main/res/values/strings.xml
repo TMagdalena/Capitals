@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Capitals</string>
+    <string name="europe_activity_name">Europe</string>
+    <string name="asia_activity_name">Asia</string>
+    <string name="africa_activity_name">Africa</string>
+    <string name="australia_activity_name">Australia</string>
+    <string name="north_america_activity_name">North America</string>
+    <string name="south_america_activity_name">South America</string>
+    <string name="antarctic_activity_name">Antarctic</string>
+</resources>
